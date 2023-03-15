@@ -4,11 +4,11 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ["www.dropbox.com"],
+    domains: ["www.cdn3d.iconscout.com"],
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "dropbox.com",
+        hostname: "cdn3d.iconscout.com",
         pathname: "/**",
       },
     ],
