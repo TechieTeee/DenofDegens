@@ -6,8 +6,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: "https",
-        hostname: "cdn3d.iconscout.com",
+        protocol: "https://",
+        hostname: "dropbox.com",
         pathname: "/**",
       },
     ],

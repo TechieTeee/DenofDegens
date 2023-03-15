@@ -1,11 +1,11 @@
 import { User } from "@prisma/client";
 
 export const images = [
-  "https://cdn3d.iconscout.com/3d/premium/thumb/brainstorm-4500570-3735579.png",
-  "https://cdn3d.iconscout.com/3d/premium/thumb/brainstorm-4500570-3735579.png",
-  "https://cdn3d.iconscout.com/3d/premium/thumb/brainstorm-4500570-3735579.png",
-  "https://cdn3d.iconscout.com/3d/premium/thumb/brainstorm-4500570-3735579.png",
-  "https://cdn3d.iconscout.com/3d/premium/thumb/brainstorm-4500570-3735579.png",
+  "https://www.dropbox.com/s/tjd1dmfwa8prbky/Den_of_Degens_Logo_Resized.png?dl=0",
+  "https://www.dropbox.com/s/tjd1dmfwa8prbky/Den_of_Degens_Logo_Resized.png?dl=0",
+  "https://www.dropbox.com/s/tjd1dmfwa8prbky/Den_of_Degens_Logo_Resized.png?dl=0",
+  "https://www.dropbox.com/s/tjd1dmfwa8prbky/Den_of_Degens_Logo_Resized.png?dl=0",
+  "https://www.dropbox.com/s/tjd1dmfwa8prbky/Den_of_Degens_Logo_Resized.png?dl=0",
 ];
 
 export const fakeUsers: Array<Pick<User, "name" | "imageUrl">> = [
