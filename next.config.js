@@ -4,6 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
+    domains: ["www.dropbox.com"],
     remotePatterns: [
       {
         protocol: "https",
@@ -15,3 +16,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
